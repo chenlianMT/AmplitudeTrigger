@@ -1,6 +1,6 @@
 # AmplitudeTrigger
 
-Made for IACD course. 
+Made for [IACD](http://golancourses.net/2015/) course. 
 
 This is an attempt to use [ofxUnitAudio](https://github.com/admsyn/ofxAudioUnit) and [ofxparticleEmitter](https://github.com/sroske/ofxParticleEmitter). 
 
